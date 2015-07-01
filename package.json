@@ -1,0 +1,24 @@
+{
+  "name": "apitoys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keawade/apitoys.git"
+  },
+  "author": "keawade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keawade/apitoys/issues"
+  },
+  "homepage": "https://github.com/keawade/apitoys#readme",
+  "dependencies": {
+    "express": "^4.13.0",
+    "github": "^0.2.4",
+    "twitter": "^1.2.5"
+  }
+}

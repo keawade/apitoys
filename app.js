@@ -12,5 +12,5 @@ var server = app.listen(8001, function () {
     var host = server.address().address;
     var port = server.address().port;
 
-    console.log("[github-toy] listening at http://%s%s", host, port);
+    console.log("[apitoys] listening at http://%s%s", host, port);
 });
